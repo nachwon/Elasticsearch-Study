@@ -21,13 +21,13 @@ Manning
 ### 지각 현황
 - seongwoopark: //
 - MJ111: //
-- jaemyunlee: /
+- jaemyunlee: //
 - parkwoohyun: //
-- dowonkoo: //
-- nachwon: //
+- dowonkoo: /// -> 벌칙1
+- nachwon: /// -> 벌칙1
 
 ### 불참 현황
-- seongwoopark: 병가, 휴가, 병가
+- seongwoopark: 병가, 휴가, ~병가~(지각으로 대체)
 - MJ111: 병가
 - jaemyunlee: 
 - parkwoohyun: 휴가 
@@ -35,9 +35,9 @@ Manning
 - nachwon: 병가, 병가
 
 ### 다음 스터디 공지
-일시: 2018-09-21 9:30 AM
+일시: 2018-09-28 9:30 AM
 
-Chapter 8 읽어오기
+Chapter 9 읽어오기
 
 - - -
 
