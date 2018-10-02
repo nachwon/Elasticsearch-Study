@@ -24,13 +24,13 @@ Manning
 - jaemyunlee: //
 - parkwoohyun: //
 - dowonkoo: /// -> 벌칙1
-- nachwon: /// -> 벌칙1
+- nachwon: /// -> 벌칙1, /
 
 ### 불참 현황
-- seongwoopark: 병가, 휴가, ~병가~(지각으로 대체)
-- MJ111: 병가
+- seongwoopark: 병가, 휴가, ~병가~(지각으로 대체), 휴가
+- MJ111: 병가, 휴가
 - jaemyunlee: 
-- parkwoohyun: 휴가 
+- parkwoohyun: 휴가, 지하철대란 
 - dowonkoo: 
 - nachwon: 병가, 병가
 
